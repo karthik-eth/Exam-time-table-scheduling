@@ -1,7 +1,8 @@
 # Exam-time-table-scheduling
 
 ==== Examination Timetable Generator ====
-Contributors:Karthik Vijayakumar, Mohith A, Keerthan V S
+
+Contributors:  Karthik Vijayakumar,  Mohith A,  Keerthan V S
 Version :6
 
 ==== Description ====
