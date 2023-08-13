@@ -1,0 +1,17 @@
+MA2171-Matrices&Calculus-Theory-25
+PH2101-EngineeringPhysics-Theory-20
+AY2101-EngineeringChemistry-Theory-50
+UG2197-Python-Theory-70
+UG2198-EngineeringGraphics-Theory-25
+HU2101-TechnicalEnglish-Theory-25
+MA2371-DiscreteMathematics-Theory-50
+CS2301-DataStructures-Theory-25
+CS2302-ObjectOrientedProgramming-Theory-40
+IT2301-Programming&DesignPatterns-Theory-30
+IT2302-DatabaseTechnology-Theory-25
+CS2501-ComputerNetworks-Theory-40
+CS2502-ArtificialIntelligence-Theory-30
+CS2503-SoftwareEngineering-Theory-25
+IT2501-SoftwareEngineering-Theory-50
+IT2502-DataAnalytics-Theory-20
+IT2503-ArtificialIntelligence-Theory-25

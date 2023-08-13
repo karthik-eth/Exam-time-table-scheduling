@@ -1,0 +1,6 @@
+16-4-2018 CS2601 InternetProgramming
+18-4-2018 CS2602 SystemSecurity
+20-4-2018 CS2603 MachineLearning
+22-4-2018 CS2604 TheoryofComputation
+24-4-2018 CS2611 InternetProgramming_Lab
+26-4-2018 CS2612 MachineLearning_Lab

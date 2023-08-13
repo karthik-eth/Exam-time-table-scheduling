@@ -1,0 +1,3 @@
+17-4-2018 CS2501 ComputerNetworks
+19-4-2018 CS2502 ArtificialIntelligence
+21-4-2018 CS2503 SoftwareEngineering

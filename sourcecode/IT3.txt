@@ -1,0 +1,6 @@
+16-4-2018 IT2601 PatternRecognition
+18-4-2018 IT2602 WebProgramming
+20-4-2018 IT2603 InternetofThings
+24-4-2018 IT2604 MobileAppDevelopment
+26-4-2018 IT2611 WebProgramming_Lab
+30-4-2018 IT2612 MachineLearning_Lab

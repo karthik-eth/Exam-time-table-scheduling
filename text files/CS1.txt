@@ -1,0 +1,8 @@
+16-4-2018 MA2271 ComplexFunctions&LaplaceTransforms
+18-4-2018 AY2271 EnvironmentalScience
+20-4-2018 HU2271 HumanitiesElective1
+22-4-2018 CI2271 BasicEEE
+24-4-2018 CS2201 SoftwareDevelopment
+26-4-2018 CS2202 DataScience
+30-4-2018 UG2297 DesignThinking_Lab
+2-5-2018 CS2217 C_Laboratory

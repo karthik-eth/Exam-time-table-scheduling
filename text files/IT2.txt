@@ -1,0 +1,8 @@
+16-4-2018 MA2471 Probability&Statistics
+18-4-2018 AY2471 IndianConstitution
+20-4-2018 IT2401 Microprocessors&Controllers
+22-4-2018 IT2402 AdvancedDataStructures
+24-4-2018 IT2403 DataCommunication
+26-4-2018 IT2404 AutomataTheory&Compilers
+30-4-2018 IT2411 NetworkProgramming_Lab
+2-5-2018 IT2412 DigitalSystems_Lab

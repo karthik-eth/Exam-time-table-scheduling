@@ -1,0 +1,8 @@
+16-4-2018 MA2471 Probability&Statistics
+18-4-2018 AY2471 IndianConstitution
+20-4-2018 EE2402 DigitalProcessing
+22-4-2018 EE2403 ControlSystems
+24-4-2018 EE2404 ElectromagneticFields
+26-4-2018 EE2405 CommunicationSystems
+30-4-2018 EE2411 Microcontrollers_Lab
+2-5-2018 EE2412 DigitalSignals_Lab

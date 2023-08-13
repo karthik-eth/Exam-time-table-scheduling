@@ -1,0 +1,8 @@
+16-4-2018 MA2471 Probability&Statistics
+18-4-2018 AY2471 IndianConstitution
+20-4-2018 CS2401 ComputerArchitecture
+22-4-2018 CS2402 OperatingSystems
+24-4-2018 CS2403 DesignofAlgorithms
+26-4-2018 CS2404 DatabaseManagement
+30-4-2018 CS2411 OperatingSystem_Lab
+2-5-2018 CS2412 Database_Lab
